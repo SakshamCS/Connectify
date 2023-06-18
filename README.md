@@ -86,7 +86,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Connect Me On 🌍
 
-[![twitter badge](https://img.shields.io/badge/twitter-Saksham-0077b5?style=social&logo=twitter)]<br/>
+[![twitter badge](https://img.shields.io/badge/twitter-Saksham-0077b5?style=social&logo=twitter)]('I don't use twitter')<br/>
 [![linkedin badge](https://img.shields.io/badge/linkedin-Saksham-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/saksham-gaur-025102196/)
 
 ## License 🏆
