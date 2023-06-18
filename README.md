@@ -1,4 +1,4 @@
-# AmigoChat 👨🏻‍💻 
+# AmigoChat 👨🏻‍💻
 
 AmigoChat is a completely responsive real-time chat application built on MERN Stack and Socket.io
 
@@ -7,7 +7,6 @@ Live - [AmigoChat](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
 ### Video Demo
 
 ![try2](https://user-images.githubusercontent.com/73348574/126811719-beac6a7d-8084-4a7d-8e2d-9978889caaf1.gif)
-
 
 ### Screenshots Of Mobile View
 
@@ -33,7 +32,7 @@ Show some ❤️ and 🌟 the repo to support the project
 - Adding a Profile Pic[All formats including Gif]
 - Adding Friends based on username Username
 - Showing Online Friends
-- Chatting with the friends along with emoji's in realtime 
+- Chatting with the friends along with emoji's in realtime
 - Updating the username and profile pic
 - Logout
 
@@ -41,13 +40,13 @@ Show some ❤️ and 🌟 the repo to support the project
 
 - Fork the Repo
 
-- Clone the repo to your local machine 
-`git clone <repo-url>`
+- Clone the repo to your local machine
+  `git clone <repo-url>`
 
 ### Frontend Setup 🍧
 
 1. Get into the chatapp directory
-    `cd chatapp`
+   `cd chatapp`
 
 2. Run `npm install` to install dependencies
 
@@ -85,10 +84,10 @@ Show some ❤️ and 🌟 the repo to support the project
 
 - [@iampranavdhar](https://www.github.com/iampranavdhar)
 
-## Connect Me On 🌍 
+## Connect Me On 🌍
 
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/iampranavdhar)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
+[![twitter badge](https://img.shields.io/badge/twitter-Saksham-0077b5?style=social&logo=twitter)]<br/>
+[![linkedin badge](https://img.shields.io/badge/linkedin-Saksham-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/saksham-gaur-025102196/)
 
 ## License 🏆
 
