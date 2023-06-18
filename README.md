@@ -82,7 +82,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Author 📝
 
-- [@iampranavdhar](https://www.github.com/iampranavdhar)
+- [@SakshamCS](https://www.github.com/SakshamCS)
 
 ## Connect Me On 🌍
 
