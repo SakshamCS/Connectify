@@ -2,12 +2,6 @@
 
 Connectify is a completely responsive real-time chat application built on MERN Stack and Socket.io
 
-Live - [Connectify](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
-
-### Video Demo
-
-![try2](https://user-images.githubusercontent.com/73348574/126811719-beac6a7d-8084-4a7d-8e2d-9978889caaf1.gif)
-
 Show some ❤️ and 🌟 the repo to support the project
 
 ## Index ✏️
