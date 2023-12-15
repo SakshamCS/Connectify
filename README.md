@@ -1,8 +1,8 @@
-# AmigoChat 👨🏻‍💻
+# Connectify 👨🏻‍💻
 
-AmigoChat is a completely responsive real-time chat application built on MERN Stack and Socket.io
+Connectify is a completely responsive real-time chat application built on MERN Stack and Socket.io
 
-Live - [AmigoChat](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
+Live - [Connectify](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
 
 ### Video Demo
 
@@ -12,7 +12,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Index ✏️
 
-1. [Features](#features-of-amigoChat-🚀)
+1. [Features](#features-of-Connectify-🚀)
 2. [Setup](#setup-🔥)
 3. [Technologies](#technologies-🛠)
 4. [References](#references-💻)
@@ -20,7 +20,7 @@ Show some ❤️ and 🌟 the repo to support the project
 6. [Connect Me On](#connect-me-on-🌍)
 7. [License](#license-🏆)
 
-## Features Of AmigoChat 🚀
+## Features Of Connectify 🚀
 
 - SignUp
 - SignIn
